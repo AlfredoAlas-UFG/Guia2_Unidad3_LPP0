@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|c:\\proyectospersonales\\lpp0\\guia2-unidad3-alfredoalas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|c:\\proyectospersonales\\lpp0\\guia2-unidad3-alfredoalas\\guia2-unidad3-alfredoalas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|solutionrelative:guia2-unidad3-alfredoalas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|c:\\proyectospersonales\\lpp0\\guia2-unidad3-alfredoalas\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|c:\\proyectospersonales\\lpp0\\guia2-unidad3-alfredoalas\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|c:\\proyectospersonales\\lpp0\\guia2-unidad3-alfredoalas\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|solutionrelative:views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|c:\\proyectospersonales\\lpp0\\guia2-unidad3-alfredoalas\\views\\estudiantes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|solutionrelative:views\\estudiantes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|c:\\proyectospersonales\\lpp0\\guia2-unidad3-alfredoalas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|c:\\proyectospersonales\\lpp0\\guia2-unidad3-alfredoalas\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0F7479-7FD8-4D44-9F6E-52DF16C56E3C}|Guia2-Unidad3-AlfredoAlas.csproj|solutionrelative:controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guia2-Unidad3-AlfredoAlas",
+              "DocumentMoniker": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Guia2-Unidad3-AlfredoAlas.csproj",
+              "RelativeDocumentMoniker": "Guia2-Unidad3-AlfredoAlas.csproj",
+              "ToolTip": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Guia2-Unidad3-AlfredoAlas.csproj",
+              "RelativeToolTip": "Guia2-Unidad3-AlfredoAlas.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T01:44:45.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T01:43:48.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T01:43:44.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T01:43:42.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Views\\Estudiantes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudiantes\\Edit.cshtml",
+              "ToolTip": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Views\\Estudiantes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Estudiantes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T01:43:38.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudiantes\\Index.cshtml",
+              "ToolTip": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Estudiantes\\Index.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwDYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T01:37:10.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T01:32:44.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\ProyectosPersonales\\LPP0\\Guia2-Unidad3-AlfredoAlas\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "Controllers\\EstudiantesController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T01:30:58.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
